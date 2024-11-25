@@ -323,12 +323,11 @@ if (num22 < 0 && num22 % 2 == 0) {
 
 let num23 = +prompt(`son kiriting:`);
 
-qoldiq = null;
-
 if (num23 > 0 && num23 % 5 == 0) {
+console.log(num23 % 5);
+
 }
 
-console.log(qoldiq = num23 % 5);
 
 // 34-misol
 
